@@ -1,0 +1,2 @@
+# PageControlSample_ios
+横スクロールのチュートリアルのサンプル
